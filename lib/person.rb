@@ -9,5 +9,3 @@ def walk
   puts "The Person is walking"
 end 
 
-fido = Dog.new 
-fido.bark 
