@@ -10,3 +10,4 @@ def walk
 end 
 
 fido = Dog.new 
+fido.bark 
